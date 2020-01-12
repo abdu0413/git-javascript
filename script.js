@@ -1,6 +1,6 @@
 var name = 'Yousuf';
 
-const message = "My name is yousef"
+const message = "My name is yousuf"
 console.log(message)
 
 const number = 4 
